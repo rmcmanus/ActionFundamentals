@@ -70,4 +70,4 @@ Find common terminology for reference [here](./CheatSheet.md)
 
 ## Edits
 Edit 1: Adding edit to trigger build on push
-
+Edit 2: Adding edit but including `[skip ci]` in command to avoid triggering workflow
